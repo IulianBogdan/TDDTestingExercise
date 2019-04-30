@@ -1,0 +1,9 @@
+
+Create a stack class with the following functionalities:
+
+-limit the size of the stack
+-add/remove elements
+-check the last element
+-get the size
+-can accept any data type
+-can handle exceptions
